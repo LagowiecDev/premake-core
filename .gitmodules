@@ -1,0 +1,3 @@
+[submodule "Premake.CMake"]
+	path = modules/cmake
+	url = https://github.com/LagowiecDev/premake-cmake.git

@@ -1,3 +1,6 @@
 [submodule "Premake.CMake"]
 	path = modules/cmake
 	url = https://github.com/LagowiecDev/premake-cmake.git
+[submodule "Premake.Ninja"]
+	path = modules/ninja
+	url = https://github.com/LagowiecDev/premake-ninja.git

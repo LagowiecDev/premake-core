@@ -11,4 +11,5 @@
 		"codelite",
 		"gmake",
 		"cmake",
+		"ninja",
 	}

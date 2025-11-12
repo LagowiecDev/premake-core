@@ -10,4 +10,5 @@
 		"xcode",
 		"codelite",
 		"gmake",
+		"cmake",
 	}
